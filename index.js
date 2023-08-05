@@ -14,6 +14,9 @@ app.use(cors());
 app.use(bodyParser.json());
 
 // Route to get the data in JSON format
+app.get("/", (req, res) => {
+  res.send("<h3>Welcome to my api [!!!] Api running on port " + PORT + "</h3>");
+});
 app.get("/api", (req, res) => {
   res.json(data);
 });
