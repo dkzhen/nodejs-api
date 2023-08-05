@@ -1,0 +1,18 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "04 Agu 2023",
+      "Jam": "18:48:38 WIB",
+      "DateTime": "2023-08-04T11:48:38+00:00",
+      "Coordinates": "-0.21,125.03",
+      "Lintang": "0.21 LS",
+      "Bujur": "125.03 BT",
+      "Magnitude": "6.0",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di laut 117 km Tenggara Bolaang Mongondo Timur",
+      "Potensi": "Gempa ini dirasakan untuk diteruskan pada masyarakat",
+      "Dirasakan": "III - IV Bone Bolango, III - IV Gorontalo, III Manado, III Tomohon, III Tondano, III Minahasa Utara, III Bolaang Mongondow Selatan, III Minahasa Tenggara, III Bolaang Mongondow Timur, III Kotamobagu, III Bitung, III Kab. Gorontalo, II-III Luwuk, II-III Kab. Gorontalo Utara, II-III Banggai Kepulauan, II Ampana",
+      "Shakemap": "20230804184838.mmi.jpg"
+    }
+  }
+}
