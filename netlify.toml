@@ -1,0 +1,12 @@
+[build]
+  command = "npm install && npm run build"
+  functions = "api/"  # Directory where your serverless functions reside
+
+[context.production.environment]
+  NODE_ENV = "production"
+
+[context.branch-deploy.environment]
+  NODE_ENV = "development"
+
+[context.deploy-preview.environment]
+  NODE_ENV = "development"
